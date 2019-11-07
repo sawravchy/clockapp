@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/compassapp/static/css/main.914d2b73.chunk.css",
+    "main.css": "/compassapp/static/css/main.39e5513a.chunk.css",
     "main.js": "/compassapp/static/js/main.f07a1489.chunk.js",
     "main.js.map": "/compassapp/static/js/main.f07a1489.chunk.js.map",
     "runtime-main.js": "/compassapp/static/js/runtime-main.6db5e359.js",
@@ -8,14 +8,14 @@
     "static/js/2.a8d811bf.chunk.js": "/compassapp/static/js/2.a8d811bf.chunk.js",
     "static/js/2.a8d811bf.chunk.js.map": "/compassapp/static/js/2.a8d811bf.chunk.js.map",
     "index.html": "/compassapp/index.html",
-    "precache-manifest.95641b4c46cdc1673a10ab480a1f895e.js": "/compassapp/precache-manifest.95641b4c46cdc1673a10ab480a1f895e.js",
+    "precache-manifest.0e60d7215d1fb1256bfc675ff4015962.js": "/compassapp/precache-manifest.0e60d7215d1fb1256bfc675ff4015962.js",
     "service-worker.js": "/compassapp/service-worker.js",
-    "static/css/main.914d2b73.chunk.css.map": "/compassapp/static/css/main.914d2b73.chunk.css.map"
+    "static/css/main.39e5513a.chunk.css.map": "/compassapp/static/css/main.39e5513a.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.6db5e359.js",
     "static/js/2.a8d811bf.chunk.js",
-    "static/css/main.914d2b73.chunk.css",
+    "static/css/main.39e5513a.chunk.css",
     "static/js/main.f07a1489.chunk.js"
   ]
 }
