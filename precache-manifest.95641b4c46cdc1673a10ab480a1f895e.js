@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc81d4a091b5dfc27c9c6609becfd20d",
+    "revision": "9fb67110000719881c4210e04d4ae783",
     "url": "/compassapp/index.html"
   },
   {
-    "revision": "045342aa6fd678aa89f8",
-    "url": "/compassapp/static/css/main.feb282e0.chunk.css"
+    "revision": "30639d6cd814db97579b",
+    "url": "/compassapp/static/css/main.914d2b73.chunk.css"
   },
   {
     "revision": "a13a5c0b59f9cb75ab7e",
     "url": "/compassapp/static/js/2.a8d811bf.chunk.js"
   },
   {
-    "revision": "045342aa6fd678aa89f8",
+    "revision": "30639d6cd814db97579b",
     "url": "/compassapp/static/js/main.f07a1489.chunk.js"
   },
   {
