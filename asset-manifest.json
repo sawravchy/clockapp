@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/compassapp/static/css/main.d0e08a4b.chunk.css",
-    "main.js": "/compassapp/static/js/main.a5c69d8f.chunk.js",
-    "main.js.map": "/compassapp/static/js/main.a5c69d8f.chunk.js.map",
-    "runtime-main.js": "/compassapp/static/js/runtime-main.6db5e359.js",
-    "runtime-main.js.map": "/compassapp/static/js/runtime-main.6db5e359.js.map",
-    "static/js/2.33879dc6.chunk.js": "/compassapp/static/js/2.33879dc6.chunk.js",
-    "static/js/2.33879dc6.chunk.js.map": "/compassapp/static/js/2.33879dc6.chunk.js.map",
-    "index.html": "/compassapp/index.html",
-    "precache-manifest.2f6bad95992c4e028f731f1edf95d03b.js": "/compassapp/precache-manifest.2f6bad95992c4e028f731f1edf95d03b.js",
-    "service-worker.js": "/compassapp/service-worker.js",
-    "static/css/main.d0e08a4b.chunk.css.map": "/compassapp/static/css/main.d0e08a4b.chunk.css.map"
+    "main.css": "/clockapp/static/css/main.d0e08a4b.chunk.css",
+    "main.js": "/clockapp/static/js/main.7c001591.chunk.js",
+    "main.js.map": "/clockapp/static/js/main.7c001591.chunk.js.map",
+    "runtime-main.js": "/clockapp/static/js/runtime-main.9227db98.js",
+    "runtime-main.js.map": "/clockapp/static/js/runtime-main.9227db98.js.map",
+    "static/js/2.33879dc6.chunk.js": "/clockapp/static/js/2.33879dc6.chunk.js",
+    "static/js/2.33879dc6.chunk.js.map": "/clockapp/static/js/2.33879dc6.chunk.js.map",
+    "index.html": "/clockapp/index.html",
+    "precache-manifest.87dd3fadddf69a7544f720fa260444e5.js": "/clockapp/precache-manifest.87dd3fadddf69a7544f720fa260444e5.js",
+    "service-worker.js": "/clockapp/service-worker.js",
+    "static/css/main.d0e08a4b.chunk.css.map": "/clockapp/static/css/main.d0e08a4b.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6db5e359.js",
+    "static/js/runtime-main.9227db98.js",
     "static/js/2.33879dc6.chunk.js",
     "static/css/main.d0e08a4b.chunk.css",
-    "static/js/main.a5c69d8f.chunk.js"
+    "static/js/main.7c001591.chunk.js"
   ]
 }
