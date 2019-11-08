@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/compassapp/static/css/main.39e5513a.chunk.css",
-    "main.js": "/compassapp/static/js/main.f07a1489.chunk.js",
-    "main.js.map": "/compassapp/static/js/main.f07a1489.chunk.js.map",
+    "main.css": "/compassapp/static/css/main.9e3fe070.chunk.css",
+    "main.js": "/compassapp/static/js/main.a5c69d8f.chunk.js",
+    "main.js.map": "/compassapp/static/js/main.a5c69d8f.chunk.js.map",
     "runtime-main.js": "/compassapp/static/js/runtime-main.6db5e359.js",
     "runtime-main.js.map": "/compassapp/static/js/runtime-main.6db5e359.js.map",
-    "static/js/2.a8d811bf.chunk.js": "/compassapp/static/js/2.a8d811bf.chunk.js",
-    "static/js/2.a8d811bf.chunk.js.map": "/compassapp/static/js/2.a8d811bf.chunk.js.map",
+    "static/js/2.33879dc6.chunk.js": "/compassapp/static/js/2.33879dc6.chunk.js",
+    "static/js/2.33879dc6.chunk.js.map": "/compassapp/static/js/2.33879dc6.chunk.js.map",
     "index.html": "/compassapp/index.html",
-    "precache-manifest.0e60d7215d1fb1256bfc675ff4015962.js": "/compassapp/precache-manifest.0e60d7215d1fb1256bfc675ff4015962.js",
+    "precache-manifest.23a6d1d508561dbba32cc5046e1f16d8.js": "/compassapp/precache-manifest.23a6d1d508561dbba32cc5046e1f16d8.js",
     "service-worker.js": "/compassapp/service-worker.js",
-    "static/css/main.39e5513a.chunk.css.map": "/compassapp/static/css/main.39e5513a.chunk.css.map"
+    "static/css/main.9e3fe070.chunk.css.map": "/compassapp/static/css/main.9e3fe070.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.6db5e359.js",
-    "static/js/2.a8d811bf.chunk.js",
-    "static/css/main.39e5513a.chunk.css",
-    "static/js/main.f07a1489.chunk.js"
+    "static/js/2.33879dc6.chunk.js",
+    "static/css/main.9e3fe070.chunk.css",
+    "static/js/main.a5c69d8f.chunk.js"
   ]
 }
